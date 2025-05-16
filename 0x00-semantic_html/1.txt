@@ -1,0 +1,47 @@
+Inside the article tag in the main tag:
+
+Add a header tag with the a h2 tag text: understanding Semantic Html
+
+Add a p tag with the text: Published on <time datetime=”2024-09-10”> September 10
+
+Inside the section tag, add a:
+
+H3 tag with the text: introduction
+
+P tag with the text: Semantic HTML helps improve the accessibility and SEO of your website. In this post, we’ll explore its benefits and how to implement it. Ensure you close the tags
+
+Below the previous section tag, Add another section tag:(this is after closing the section tag in the previous tag)
+
+In the newly created section tag, add:
+
+h3a tg with the text: Main Content
+
+P tag with the text:
+
+### Using elements like 
+
+<code>&lt;article&gt;</code> 
+<code>&lt;section&gt;</code>
+<code>&lt;header&gt;</code>
+ensures that both users and search engines can better understand the structure and content of a webpage.`
+
+figure with:
+
+img tag with an src=””, alt attribute with text: example
+
+Figcaption with the text: An illustration of semantic HTML elements
+
+Add a third section tag. Inside it add:
+
+H3 tag with the text: Conclusion
+
+p tag with the text: By adopting semantic HTML, you enhance your site's accessibility, improve SEO, and make the content easier to navigate.
+
+Add a footer tag. Inside it, add:*]
+
+*p tag with the text: written by <name>
+
+p tag with the text: Published on 2024-09-11
+ps : All the above changes have been made in the article tag inside the main tag
+
+Remember to close each tag you create
